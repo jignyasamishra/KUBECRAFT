@@ -1,1 +1,2 @@
 # KUBECRAFT
+This repository demonstrates the deployment of an advanced microservices architecture utilizing Kubernetes and Docker. The application is engineered to manage key components of a contemporary web service, encompassing user authentication, messaging, data storage, and seamless communication between services.
